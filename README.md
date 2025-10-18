@@ -31,7 +31,7 @@ bash
 pip install -r requirements.txt
 3.	Run the app
 bash
-streamlit run app.py
+streamlit run ImageWizard.py
 4.	Open your browser at:
 text
 http://localhost:8501
